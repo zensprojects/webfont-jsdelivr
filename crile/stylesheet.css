@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Crillee';
+    src: url('Crillee.woff2') format('woff2'),
+        url('Crillee.woff') format('woff'),
+        url('Crillee.ttf') format('truetype'),
+        url('Crillee.svg#Crillee') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
