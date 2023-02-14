@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Black boys on mopeds';
+    src: url('Blackboysonmopeds.woff2') format('woff2'),
+        url('Blackboysonmopeds.woff') format('woff'),
+        url('Blackboysonmopeds.ttf') format('truetype'),
+        url('Blackboysonmopeds.svg#Blackboysonmopeds') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
