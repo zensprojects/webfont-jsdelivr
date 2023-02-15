@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'PBS KIDS Headline';
+    src: url('PBSKIDSHeadline-Bold.woff2') format('woff2'),
+        url('PBSKIDSHeadline-Bold.woff') format('woff'),
+        url('PBSKIDSHeadline-Bold.ttf') format('truetype'),
+        url('PBSKIDSHeadline-Bold.svg#PBSKIDSHeadline-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
