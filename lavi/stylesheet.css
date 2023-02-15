@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Lavi';
+    src: url('Lavi.woff2') format('woff2'),
+        url('Lavi.woff') format('woff'),
+        url('Lavi.ttf') format('truetype'),
+        url('Lavi.svg#Lavi') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
