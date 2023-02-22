@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Yahoo!(c)';
+    src: url('Yahoo.eot');
+    src: url('Yahoo.eot?#iefix') format('embedded-opentype'),
+        url('Yahoo.woff2') format('woff2'),
+        url('Yahoo.woff') format('woff'),
+        url('Yahoo.ttf') format('truetype'),
+        url('Yahoo.svg#Yahoo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
