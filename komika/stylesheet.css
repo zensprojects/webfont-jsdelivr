@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Komika Display';
+    src: url('KomikaDisplay.eot');
+    src: url('KomikaDisplay.eot?#iefix') format('embedded-opentype'),
+        url('KomikaDisplay.woff2') format('woff2'),
+        url('KomikaDisplay.woff') format('woff'),
+        url('KomikaDisplay.ttf') format('truetype'),
+        url('KomikaDisplay.svg#KomikaDisplay') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
